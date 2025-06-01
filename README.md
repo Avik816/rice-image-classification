@@ -44,11 +44,11 @@ Each model is trained and evaluated using features extracted from the MobileNet 
 
 ## Workflow:
 
-![How the project as well as the research proceded](images/procedure.png)
+![How the project as well as the research proceded](./procedure.png)
 
 ## MobileNet V2 architecture
 
-![MobileNet V2 Model's Architecture](images/mv2_architecture.png)
+![MobileNet V2 Model's Architecture](./mv2_architecture.png)
 
 ## 📊 Evaluation Metrics
 
