@@ -1,0 +1,14 @@
+Copyright © 2025 Avik Chakraborty
+
+This repository and its contents are part of ongoing academic research. The code and associated materials are provided solely for the purpose of academic transparency and review.
+
+**No license is granted for the use, reproduction, modification, distribution, or creation of derivative works.**
+
+You may not:
+- Use the code in any commercial, academic, or personal project
+- Modify, copy, or redistribute any part of the repository
+- Publish or present results based on this code without explicit written permission
+
+**Permission of any kind is not granted**
+
+All rights reserved.
